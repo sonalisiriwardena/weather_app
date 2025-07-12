@@ -1,0 +1,7 @@
+// constants/api_keys.dart
+const String OPEN_WEATHER_MAP_API_KEY = '883602a8a94676e9ad85743b62231d53';
+
+
+
+
+//883602a8a94676e9ad85743b62231d53
